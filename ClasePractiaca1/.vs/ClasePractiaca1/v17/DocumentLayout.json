@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CLasesPracticas\\ClasePractiaca1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681EE841-BE5A-49CD-ABE4-7642417F430C}|ClasePractiaca1\\ClasePractiaca1.csproj|c:\\users\\usuario\\desktop\\clasespracticas\\clasepractiaca1\\clasepractiaca1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681EE841-BE5A-49CD-ABE4-7642417F430C}|ClasePractiaca1\\ClasePractiaca1.csproj|solutionrelative:clasepractiaca1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CLasesPracticas\\ClasePractiaca1\\ClasePractiaca1\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractiaca1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CLasesPracticas\\ClasePractiaca1\\ClasePractiaca1\\Program.cs",
+              "RelativeToolTip": "ClasePractiaca1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:54:25.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
